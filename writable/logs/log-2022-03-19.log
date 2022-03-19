@@ -1,0 +1,48 @@
+CRITICAL - 2022-03-19 03:31:16 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\Programs\xampp7\htdocs\CI4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\Programs\xampp7\htdocs\CI4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\Programs\xampp7\htdocs\CI4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\Programs\xampp7\htdocs\CI4\public\index.php(28): require('D:\\Programs\\xam...')
+#4 {main}
+CRITICAL - 2022-03-19 03:31:22 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\Programs\xampp7\htdocs\CI4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\Programs\xampp7\htdocs\CI4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\Programs\xampp7\htdocs\CI4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\Programs\xampp7\htdocs\CI4\public\index.php(28): require('D:\\Programs\\xam...')
+#4 {main}
+CRITICAL - 2022-03-19 03:31:23 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\Programs\xampp7\htdocs\CI4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\Programs\xampp7\htdocs\CI4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\Programs\xampp7\htdocs\CI4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\Programs\xampp7\htdocs\CI4\public\index.php(28): require('D:\\Programs\\xam...')
+#4 {main}
+CRITICAL - 2022-03-19 03:31:31 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\Programs\xampp7\htdocs\CI4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\Programs\xampp7\htdocs\CI4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\Programs\xampp7\htdocs\CI4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\Programs\xampp7\htdocs\CI4\public\index.php(28): require('D:\\Programs\\xam...')
+#4 {main}
+CRITICAL - 2022-03-19 03:37:22 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\Programs\xampp7\htdocs\CI4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\Programs\xampp7\htdocs\CI4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\Programs\xampp7\htdocs\CI4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\Programs\xampp7\htdocs\CI4\index.php(28): require('D:\\Programs\\xam...')
+#4 {main}
+CRITICAL - 2022-03-19 03:37:23 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\Programs\xampp7\htdocs\CI4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\Programs\xampp7\htdocs\CI4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\Programs\xampp7\htdocs\CI4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\Programs\xampp7\htdocs\CI4\index.php(28): require('D:\\Programs\\xam...')
+#4 {main}
+CRITICAL - 2022-03-19 03:43:27 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\Programs\xampp7\htdocs\CI4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\Programs\xampp7\htdocs\CI4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\Programs\xampp7\htdocs\CI4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\Programs\xampp7\htdocs\CI4\index.php(28): require('D:\\Programs\\xam...')
+#4 {main}
+CRITICAL - 2022-03-19 03:43:28 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\Programs\xampp7\htdocs\CI4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\Programs\xampp7\htdocs\CI4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\Programs\xampp7\htdocs\CI4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\Programs\xampp7\htdocs\CI4\index.php(28): require('D:\\Programs\\xam...')
+#4 {main}
